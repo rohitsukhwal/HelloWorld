@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultSpec" : "rohitsharma 3/5/2015 23:32" },
+	"instance" : {
+		"buttonGreet" : "rohitsharma 3/5/2015 23:32",
+		"buttonGreet:" : "rohitsharma 3/5/2015 23:32",
+		"initializePresenter" : "rohitsharma 3/5/2015 23:32",
+		"initializeWidgets" : "rohitsharma 3/5/2015 23:31",
+		"labelGreeting" : "rohitsharma 3/5/2015 23:32",
+		"labelGreeting:" : "rohitsharma 3/5/2015 23:32",
+		"radioMr" : "rohitsharma 3/5/2015 23:32",
+		"radioMr:" : "rohitsharma 3/5/2015 23:32",
+		"radioMrs" : "rohitsharma 3/5/2015 23:32",
+		"radioMrs:" : "rohitsharma 3/5/2015 23:32",
+		"radioMs" : "rohitsharma 3/5/2015 23:32",
+		"radioMs:" : "rohitsharma 3/5/2015 23:32",
+		"setupTitleRadioButtons" : "rohitsharma 3/5/2015 23:31",
+		"textName" : "rohitsharma 3/5/2015 23:32",
+		"textName:" : "rohitsharma 3/5/2015 23:32",
+		"userTitle" : "rohitsharma 3/5/2015 23:32" } }

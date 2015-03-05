@@ -1,0 +1,19 @@
+{
+	"category" : "My-Spec-Tutorial",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"labelGreeting",
+		"textName",
+		"buttonGreet",
+		"radioMr",
+		"radioMrs",
+		"radioMs" ],
+	"name" : "MyFirstWindow",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
