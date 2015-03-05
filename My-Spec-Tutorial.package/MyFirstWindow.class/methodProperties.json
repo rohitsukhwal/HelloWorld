@@ -1,13 +1,17 @@
 {
 	"class" : {
-		"defaultSpec" : "rohitsharma 3/5/2015 23:32" },
+		"defaultSpec" : "rohitsharma 3/5/2015 23:59" },
 	"instance" : {
 		"buttonGreet" : "rohitsharma 3/5/2015 23:32",
 		"buttonGreet:" : "rohitsharma 3/5/2015 23:32",
 		"initializePresenter" : "rohitsharma 3/5/2015 23:32",
-		"initializeWidgets" : "rohitsharma 3/5/2015 23:31",
+		"initializeWidgets" : "rohitsharma 3/5/2015 23:56",
 		"labelGreeting" : "rohitsharma 3/5/2015 23:32",
 		"labelGreeting:" : "rohitsharma 3/5/2015 23:32",
+		"labelName" : "rohitsharma 3/5/2015 23:55",
+		"labelName:" : "rohitsharma 3/5/2015 23:55",
+		"labelTitle" : "rohitsharma 3/5/2015 23:55",
+		"labelTitle:" : "rohitsharma 3/5/2015 23:55",
 		"radioMr" : "rohitsharma 3/5/2015 23:32",
 		"radioMr:" : "rohitsharma 3/5/2015 23:32",
 		"radioMrs" : "rohitsharma 3/5/2015 23:32",

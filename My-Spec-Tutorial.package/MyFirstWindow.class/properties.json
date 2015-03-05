@@ -11,7 +11,9 @@
 		"buttonGreet",
 		"radioMr",
 		"radioMrs",
-		"radioMs" ],
+		"radioMs",
+		"labelName",
+		"labelTitle" ],
 	"name" : "MyFirstWindow",
 	"pools" : [
 		 ],
