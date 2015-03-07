@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeWidgets 
         self instantiateModels: #(
                 labelGreeting   LabelModel 
@@ -12,7 +12,12 @@ initializeWidgets
         ).
         labelGreeting text: ''.
         textName autoAccept: true.
-        buttonGreet label: 'Greet Me!'; disable.
+        buttonGreet
+			label: 'Greet Me!';
+			disable;
+			action: [ 
+                labelGreeting text: 'Hello, ', self userTitle, ' ', textName text, '!'.
+                buttonGreet disable ].
         self setupTitleRadioButtons.
 	  labelName text: 'Your name, please?'.
         labelTitle text: 'Your title, please?'.

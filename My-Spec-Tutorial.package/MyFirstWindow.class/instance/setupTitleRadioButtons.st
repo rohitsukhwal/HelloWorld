@@ -1,11 +1,12 @@
-as yet unclassified
+private
 setupTitleRadioButtons
         radioMr label: 'Mr.'.
         radioMs label: 'Ms.'.
         radioMrs label: 'Mrs.'.
         
-        RadioButtonGroup new
+        titleOptions := RadioButtonGroup new
                 addRadioButton: radioMr;
                 addRadioButton: radioMs;
                 addRadioButton: radioMrs;
-                default: radioMr.
+                default: radioMr;
+				yourself.
