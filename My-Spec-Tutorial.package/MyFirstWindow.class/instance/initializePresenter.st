@@ -1,7 +1,4 @@
-as yet unclassified
+initialization
 initializePresenter
         textName whenTextChanged: [ 
                 buttonGreet enable ].
-        buttonGreet action: [ 
-                labelGreeting text: 'Hello, ', self userTitle, ' ', textName text, '!'.
-                buttonGreet disable ].

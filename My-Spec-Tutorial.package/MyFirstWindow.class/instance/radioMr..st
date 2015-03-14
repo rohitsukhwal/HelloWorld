@@ -1,3 +1,3 @@
-accessing
+private
 radioMr: anObject
 	radioMr := anObject

@@ -1,3 +1,3 @@
-accessing
+private
 labelTitle: anObject
 	labelTitle := anObject

@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SeanDeNigris 3/7/2015 13:10",
 	"instvars" : [
 		"labelGreeting",
 		"textName",
@@ -13,7 +13,8 @@
 		"radioMrs",
 		"radioMs",
 		"labelName",
-		"labelTitle" ],
+		"labelTitle",
+		"titleOptions" ],
 	"name" : "MyFirstWindow",
 	"pools" : [
 		 ],

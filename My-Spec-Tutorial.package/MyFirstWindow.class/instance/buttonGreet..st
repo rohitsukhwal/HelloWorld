@@ -1,3 +1,3 @@
-accessing
+private
 buttonGreet: anObject
 	buttonGreet := anObject
